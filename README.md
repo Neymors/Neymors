@@ -6,7 +6,6 @@ Construyo sistemas donde la **seguridad no es un agregado, sino parte del diseñ
 
 Me enfoco en backend, aplicaciones full-stack y protección de datos en escenarios reales.
 
----
 
 ## 🧠 Enfoque
 
@@ -83,5 +82,6 @@ Desarrollar sistemas donde la **seguridad, la arquitectura y la experiencia del 
 ## 📫 Contacto
 
 * GitHub: https://github.com/Neymors
+* Instagram: https://www.instagram.com/itsnotgas/
 
 ---
