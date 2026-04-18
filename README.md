@@ -59,10 +59,17 @@ Herramienta para analizar emails y links en busca de patrones de phishing.
 
 ## 🛠️ Tecnologías
 
-* **Backend:** Node.js / Python
-* **Frontend:** React
-* **Base de datos:** PostgreSQL / MongoDB
-* **Seguridad:** JWT, hashing, cifrado simétrico
+- **Backend:** 
+	- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+	- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Frontend:** 
+	- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **Base de datos:** 
+	- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+	- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+- **Seguridad:** 
+	- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+	- ![Security](https://img.shields.io/badge/Security-Encryption-red?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
