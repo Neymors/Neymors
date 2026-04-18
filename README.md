@@ -89,7 +89,10 @@ Desarrollar sistemas donde la **seguridad, la arquitectura y la experiencia del 
 ---
 
 ## 📫 Contacto
-
-* GitHub: https://github.com/Neymors
+<p align="center">
+  <a href="https://github.com/Neymors"><img src="https://img.shields.io/badge/-181717?style=social&logo=github" alt="GitHub" /></a>
+  <a href="https://x.com/ItsNeymor"><img src="https://img.shields.io/badge/-000000?style=social&logo=x" alt="X" /></a>
+  <a href="https://www.instagram.com/itsnotgas/"><img src="https://img.shields.io/badge/-E4405F?style=social&logo=instagram" alt="Instagram" /></a>
+</p>
 
 ---
