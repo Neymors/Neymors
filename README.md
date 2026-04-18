@@ -41,6 +41,7 @@ Plataforma orientada a empresas para simular ataques de phishing y analizar el c
 
 Generador y gestor de contraseñas con almacenamiento local y análisis de seguridad.
 Incluye evaluación de fortaleza y gestión de credenciales en el navegador.
+URL: https://neymors.github.io/CryptoGen/
 
 ---
 
