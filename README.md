@@ -1,47 +1,87 @@
-# ⚡ Hello, I'm Neymors | Digital Artisan & Python Developer
+# 🏛️ Gaston — Backend & Security Developer
 
-I build tools that bridge the gap between complex data and clear visualization. Focused on automation, financial dashboards, and Personal Knowledge Management (PKM).
+<img src="https://github.com/Neymors.png" width="180" align="right" style="border-radius: 50%;" />
 
----
+Desarrollo sistemas donde la **seguridad no es un agregado, sino parte del diseño desde el inicio**.
 
-### 🛠️ Professional Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Data & Viz** | `Manim` • `Pandas` • `Vectorization` • `Matplotlib` |
-| **Automation** | `FontForge Scripting` • `OCR Workflows` • `OS Scripting` |
-| **Knowledge** | ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) `Cortex Methodology` • `Canvas Architecture` |
+Me enfoco en backend, aplicaciones full-stack y protección de datos en escenarios reales.
 
 ---
 
-### 🚀 Key Projects & Interests
+## 🧠 Enfoque
 
-#### 🖋️ AutoFont Pipeline
-Automated workflow to convert images into vectorized SVG icons and compile them into functional `.ttf` / `.otf` fonts using **FontForge** and **Python**.
-
-#### 📈 Financial Intelligence
-Building dynamic dashboards to monitor investment portfolios. Processing broker statements via **OCR** to visualize movements in Bonds, Crypto, and Equities.
-
-#### 🧠 Polymath Vault (Obsidian)
-My "Cortex" setup for PKM. A structured environment using metadata management and decentralized architecture for long-term learning and documentation.
+* 🔐 Seguridad aplicada (cifrado, autenticación, manejo de credenciales)
+* ⚙️ Arquitectura backend (APIs, separación de capas, escalabilidad)
+* 🌐 Integración full-stack
+* 📊 Sistemas con métricas y análisis de comportamiento
 
 ---
 
-### 📊 Performance Metrics
+## 🛡️ Proyecto principal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neymors&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Neymors's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neymors&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### Security Awareness & Phishing Simulation Platform
+
+Plataforma orientada a empresas para simular ataques de phishing y analizar el comportamiento de usuarios frente a amenazas reales.
+
+**Incluye:**
+
+* 📩 Simulación de campañas de phishing
+* 📊 Tracking de eventos (open, click, credential submit)
+* 🧠 Scoring de riesgo por usuario
+* 🔍 Análisis de URLs y patrones sospechosos
+* 📈 Dashboard con métricas de seguridad
+
+> Enfocado en detectar vulnerabilidades humanas, no solo técnicas.
 
 ---
 
-### 📫 Connect with me
-- **Status:** Available for Python automation and MVP development.
-- **Philosophy:** *Build simple, automate the boring, document everything.*
+## 🧩 Proyectos destacados
+
+### 🔐 CryptoGen
+
+Generador y gestor de contraseñas con almacenamiento local y análisis de seguridad.
+Incluye evaluación de fortaleza y gestión de credenciales en el navegador.
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Deep_Work-blue?style=for-the-badge" />
-</p>
+
+### 🔐 Secure Notes *(en desarrollo)*
+
+Aplicación de notas con cifrado end-to-end y enfoque *zero-knowledge*.
+El contenido nunca es accesible desde el servidor.
+
+---
+
+### 🔍 Threat Analyzer *(en desarrollo)*
+
+Herramienta para analizar emails y links en busca de patrones de phishing.
+
+---
+
+## 🛠️ Tecnologías
+
+* **Backend:** Node.js / Python
+* **Frontend:** React
+* **Base de datos:** PostgreSQL / MongoDB
+* **Seguridad:** JWT, hashing, cifrado simétrico
+
+---
+
+## 📌 Actualmente
+
+* 🚧 Construyendo sistemas orientados a seguridad real
+* 📈 Mejorando arquitectura y buenas prácticas
+* 🧪 Explorando análisis de amenazas y comportamiento de usuarios
+
+---
+
+## 🎯 Objetivo
+
+Desarrollar sistemas donde la **seguridad, la arquitectura y la experiencia del usuario trabajen en conjunto**.
+
+---
+
+## 📫 Contacto
+
+* GitHub: https://github.com/Neymors
+
+---
