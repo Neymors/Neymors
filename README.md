@@ -1,58 +1,63 @@
-# 🏛️ Gaston — Backend & Security Developer
+# 🏛️ Gaston — Backend & Seguridad
 
-<img src="https://github.com/Neymors.png" width="180" align="right" style="border-radius: 50%;" />
-
-Desarrollo sistemas donde la **seguridad no es un agregado, sino parte del diseño desde el inicio**.
-
-Me enfoco en backend, aplicaciones full-stack y protección de datos en escenarios reales.
+Estoy aprendiendo y construyendo proyectos en backend y seguridad, con el objetivo de entender cómo funcionan los sistemas y cómo hacerlos más seguros.
 
 ---
 
 ## 🧠 Enfoque
 
-* 🔐 Seguridad aplicada (cifrado, autenticación, manejo de credenciales)
-* ⚙️ Arquitectura backend (APIs, separación de capas, escalabilidad)
-* 🌐 Integración full-stack
-* 📊 Sistemas con métricas y análisis de comportamiento
+- 🔐 Seguridad aplicada (cifrado, autenticación, manejo de credenciales)
+    
+- ⚙️ Backend (APIs, organización del código, buenas prácticas)
+    
+- 🌐 Integración full-stack
+    
+- 📊 Análisis de eventos y comportamiento básico
+    
 
 ---
 
 ## 🛡️ Proyecto principal
 
-### Security Awareness & Phishing Simulation Platform
+### Security Awareness & Phishing Simulation Platform _(en desarrollo)_
 
-Plataforma orientada a empresas para simular ataques de phishing y analizar el comportamiento de usuarios frente a amenazas reales.
+Proyecto orientado a simular ataques de phishing y analizar cómo interactúan los usuarios con este tipo de amenazas.
 
 **Incluye:**
 
-* 📩 Simulación de campañas de phishing
-* 📊 Tracking de eventos (open, click, credential submit)
-* 🧠 Scoring de riesgo por usuario
-* 🔍 Análisis de URLs y patrones sospechosos
-* 📈 Dashboard con métricas de seguridad
+- 📩 Simulación de campañas de phishing
+    
+- 📊 Registro de eventos (apertura, click, envío de datos)
+    
+- 🧠 Cálculo de riesgo por usuario _(en desarrollo)_
+    
+- 🔍 Análisis básico de URLs y patrones sospechosos
+    
+- 📈 Dashboard con métricas
+    
 
-> Enfocado en detectar vulnerabilidades humanas, no solo técnicas.
+> Lo estoy usando como base para aprender backend, seguridad y diseño de sistemas.
 
 ---
 
-## 🧩 Proyectos destacados
+## 🧩 Proyectos
 
 ### 🔐 CryptoGen
 
-Generador y gestor de contraseñas con almacenamiento local y análisis de seguridad.
-Incluye evaluación de fortaleza y gestión de credenciales en el navegador.
-URL: https://neymors.github.io/CryptoGen/
+Generador y gestor de contraseñas con almacenamiento local.  
+Incluye evaluación de fortaleza y manejo de credenciales en el navegador.
+
+🔗 [https://neymors.github.io/CryptoGen/](https://neymors.github.io/CryptoGen/)
 
 ---
 
-### 🔐 Secure Notes *(en desarrollo)*
+### 🔐 Secure Notes _(en desarrollo)_
 
-Aplicación de notas con cifrado end-to-end y enfoque *zero-knowledge*.
-El contenido nunca es accesible desde el servidor.
+Aplicación de notas con cifrado end-to-end como práctica de manejo de datos sensibles.
 
 ---
 
-### 🔍 Threat Analyzer *(en desarrollo)*
+### 🔍 Threat Analyzer _(en desarrollo)_
 
 Herramienta para analizar emails y links en busca de patrones de phishing.
 
@@ -71,20 +76,24 @@ Herramienta para analizar emails y links en busca de patrones de phishing.
 - **Seguridad:** 
 	- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 	- ![Security](https://img.shields.io/badge/Security-Encryption-red?style=for-the-badge&logo=shield&logoColor=white)
+    
 
 ---
 
 ## 📌 Actualmente
 
-* 🚧 Construyendo sistemas orientados a seguridad real
-* 📈 Mejorando arquitectura y buenas prácticas
-* 🧪 Explorando análisis de amenazas y comportamiento de usuarios
+- 🚧 Construyendo proyectos propios
+    
+- 📈 Mejorando estructura de código y buenas prácticas
+    
+- 🧪 Aprendiendo sobre seguridad en aplicaciones reales
+    
 
 ---
 
 ## 🎯 Objetivo
 
-Desarrollar sistemas donde la **seguridad, la arquitectura y la experiencia del usuario trabajen en conjunto**.
+Seguir aprendiendo y desarrollando sistemas donde la seguridad sea parte del diseño desde el inicio.
 
 ---
 
@@ -94,5 +103,4 @@ Desarrollar sistemas donde la **seguridad, la arquitectura y la experiencia del 
   <a href="https://x.com/ItsNeymor"><img src="https://img.shields.io/badge/-000000?style=social&logo=x" alt="X" /></a>
   <a href="https://www.instagram.com/itsnotgas/"><img src="https://img.shields.io/badge/-E4405F?style=social&logo=instagram" alt="Instagram" /></a>
 </p>
-
 ---
